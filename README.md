@@ -1,6 +1,4 @@
 ### Profil ekranı bakım aşamasında
-https://www.notion.so/Staj-Projesi-G-nl-6b34ed0fe2b14d638f238cf333135883?pvs=4
-
 <!--
 **jumpthe11/jumpthe11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
